@@ -40,7 +40,12 @@ streamlit run app.py
 
 Open notebooks/exoplanet_analysis.ipynb for full analysis and model training.
 
+## License
+
+MIT
+
 ## References
 
 -[NASA Exoplatet Archive](https://exoplanetarchive.ipas.caltech.edu/)
+
 -[Kepler Mission](https://www.nasa.gov/mission_pages/kepler/main/index.html)
