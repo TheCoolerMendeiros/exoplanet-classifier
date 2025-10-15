@@ -210,6 +210,6 @@ MIT License - See [LICENSE](LICENSE) file for details
 
 ## 🤝 Contact
 
-Built by [Pedro Mendeiros] | [GitHub](https://github.com/TheCoolerMendeiros) | [LinkedIn](https://www.linkedin.com/in/pedro-mendeiros-159a801a8/)
+Built by Pedro Mendeiros | [GitHub](https://github.com/TheCoolerMendeiros) | [LinkedIn](https://www.linkedin.com/in/pedro-mendeiros-159a801a8/)
 
 *Interested in data science for astronomy or ML for scientific discovery? Let's connect!*
