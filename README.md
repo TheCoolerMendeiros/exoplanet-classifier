@@ -21,7 +21,7 @@ This project builds a machine learning classifier to distinguish **confirmed exo
 
 ## 📊 Dataset
 
-- **Source**: [NASA Exoplanet Archive](https://exoplanetarchive.ipas.caltech.edu/) - Kepler KOI Cumulative Table
+- **Source**: [NASA Exoplanet Archive](https://exoplanetarchive.ipac.caltech.edu/) - Kepler KOI Cumulative Table
 - **Original size**: 9,564 Kepler Objects of Interest
 - **After preprocessing**: 6,385 samples (CONFIRMED: 2,675 | FALSE POSITIVE: 3,710)
 - **Features**: 74 astrophysical parameters including:
